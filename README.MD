@@ -1,4 +1,4 @@
-Bootleggers ROM | Queue (Android 10) sources
+Bootleggers ROM | Queue (Android 10) sources - Forked Edition
 ========
 
 [![SF Downloads Badge](https://img.shields.io/sourceforge/dm/bootleggersrom.svg?color=e52c5f&label=Shishufied%20downloads&style=for-the-badge&labelColor=121217&logo=sourceforge)](https://sourceforge.net/projects/bootleggersrom/files/builds)
@@ -6,7 +6,7 @@ Bootleggers ROM | Queue (Android 10) sources
 
 To initialize your local repository, use this command:
 
-	repo init -u https://github.com/BootleggersROM/manifest.git -b queso
+	repo init -u https://github.com/BootleggersROM-Etnalized/manifest.git -b queso
 
 Then, be sure to add your device manifest in your local_manifests folder and finally, do:
 
@@ -66,3 +66,4 @@ Here's my thanks to people who made this possible:
 * ArrowOS
 * BlissROMs
 * The Memedo Testers team
+* CSRTeams
