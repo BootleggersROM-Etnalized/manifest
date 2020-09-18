@@ -51,7 +51,7 @@
   <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="bootleggers" />
   <project path="external/pulse" name="external_pulse" remote="bootleggers" />
   <project path="external/tinycompress" name="external_tinycompress" remote="bootleggers" />
-
+  <project path="external/airbnb-lottie" name="platform_external_airbnb-lottie" remote="bootleggers-etnalized" />
   <!-- Hardware -->
   <project path="hardware/bootleg/interfaces" name="hardware_bootleg_interfaces" remote="bootleggers" />
   <project path="hardware/interfaces" name="hardware_interfaces" remote="bootleggers" />
